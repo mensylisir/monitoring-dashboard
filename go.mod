@@ -1,4 +1,4 @@
-module kubesphere.io/monitoring-dashboard
+module github.com/mensylisir/monitoring-dashboard
 
 go 1.13
 
